@@ -1,0 +1,8 @@
+{
+  "name": "SentinelLog Pro",
+  "description": "Enterprise-grade Linux log monitoring, threat detection, and SOC automation platform with AI-powered anomaly analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
